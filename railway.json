@@ -1,9 +1,0 @@
-{
-  "$schema": "https://railway.app/railway.schema.json",
-  "build": {
-    "root": "himawari"
-  },
-  "deploy": {
-    "numReplicas": 1
-  }
-}
